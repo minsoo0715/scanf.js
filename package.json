@@ -1,0 +1,25 @@
+{
+  "name": "scanf_js",
+  "version": "1.0.0",
+  "description": "easy to read data",
+  "main": "scanf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minsoo0715/scanf.js.git"
+  },
+  "keywords": [
+    "scanf"
+  ],
+  "author": "WhiteB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minsoo0715/scanf.js/issues"
+  },
+  "homepage": "https://github.com/minsoo0715/scanf.js#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
