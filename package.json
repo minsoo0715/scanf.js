@@ -1,6 +1,6 @@
 {
   "name": "scanf_js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "easy to read data",
   "main": "scanf.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/minsoo0715/scanf.js.git"
   },
   "keywords": [
-    "scanf"
+    "scanf",
+    "node"
   ],
   "author": "WhiteB",
   "license": "MIT",
