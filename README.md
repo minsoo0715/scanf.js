@@ -17,7 +17,7 @@ scanf(1).then(
   )
 ```
 
-```bat
+```powershell
     input : 5
             4 3 2 1 5
 
