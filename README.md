@@ -1,7 +1,7 @@
 # scanf_js
 
 
-# exam   
+# e.g.
 ```js
 let scanf = require('scanf_js')
 
